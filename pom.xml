@@ -41,6 +41,7 @@
                 <version>2.11</version>
                 <configuration>
                     <skip>true</skip>
+                    <forkCount>0</forkCount>
                 </configuration>
                 <executions>
                     <execution>
